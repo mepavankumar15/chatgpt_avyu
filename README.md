@@ -52,3 +52,6 @@ ChatGPT: Fine-tunes GPT with supervised learning and reinforcement techniques fo
 
 X. nanoGPT Codebase
 Key Files: bigram.py for training logic, gpt.py for architecture.
+
+
+https://colab.research.google.com/drive/1wBt7NAgoCwMRfSApxfiq00Ix8DgNbdYx#scrollTo=STZOe6iz91Mk
